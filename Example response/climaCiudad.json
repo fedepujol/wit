@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": -60,
+        "lat": -36
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 293.227,
+        "pressure": 1019.82,
+        "humidity": 100,
+        "temp_min": 293.227,
+        "temp_max": 293.227,
+        "sea_level": 1026.82,
+        "grnd_level": 1019.82
+    },
+    "wind": {
+        "speed": 2.39,
+        "deg": 254.504
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1541251859,
+    "sys": {
+        "message": 0.0024,
+        "country": "AR",
+        "sunrise": 1541235204,
+        "sunset": 1541284451
+    },
+    "id": 3435907,
+    "name": "Provincia de Buenos Aires",
+    "cod": 200
+}
